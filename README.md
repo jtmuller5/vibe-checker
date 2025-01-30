@@ -30,7 +30,13 @@ describe("Cash Register", () => {
   });
 ```
 
-To load the Google API key during tests using [Vitest](https://vitest.dev/), you need to create a `vitest.config.ts` file with the `setupFiles` field:
+To load the Google API key during tests using [Vitest](https://vitest.dev/), you need to install the [dotenv](https://www.npmjs.com/package/dotenv) library:
+
+```bash
+npm i dotenv
+```
+
+And create a `vitest.config.ts` file with the `setupFiles` field:
 
 ```typescript
 import { defineConfig } from 'vitest/config';
