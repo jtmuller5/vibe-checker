@@ -6,7 +6,7 @@
 A single file for evaluating your LLM outputs in TypeScript.
 
 > [!NOTE]
-> This is not an npm package. To use it, just copy the `[vibe_checker.ts](./vibe_checker.ts)` file into your project (190 lines including comments)
+> This is not an npm package. To use it, just copy the [vibe_checker.ts](./vibe_checker.ts) file into your project (190 lines including comments)
 
 ## Quickstart
 
