@@ -2,6 +2,9 @@
 
 A single file for evaluating your LLM outputs in TypeScript.
 
+> [!NOTE]
+> This is not an npm package. To use it, just copy the `vibe-checker.ts` file into your project (190 lines including comments)
+
 ## Quickstart
 
 Add a `.env` folder to the root of your project with your [Google API key](https://ai.google.dev/gemini-api/docs/api-key):
