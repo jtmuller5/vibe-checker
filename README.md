@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/jtmuller5/vibe-checker)
+
+
 # Vibe Checker
 
 A single file for evaluating your LLM outputs in TypeScript.
