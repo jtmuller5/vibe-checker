@@ -1,4 +1,4 @@
-# Vibe Check
+# Vibe Checker
 
 A single file for evaluating your LLM outputs in TypeScript.
 
