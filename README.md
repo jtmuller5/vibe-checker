@@ -16,7 +16,7 @@ Add a `.env` folder to the root of your project with your [Google API key](https
 GOOGLE_API_KEY=
 ```
 
-Vibe Checker uses [Vitest](https://vitest.dev/) under the hood. To start testing, create a `__tests__` folder at the root of your project and add a test:
+To start testing, create a `__tests__` folder at the root of your project and add a test:
 
 ```typescript
 describe("Cash Register", () => {
@@ -30,7 +30,7 @@ describe("Cash Register", () => {
   });
 ```
 
-To load the Google API key during tests using Vitest, you need to create a `vitest.config.ts` file with the `setupFiles` field:
+To load the Google API key during tests using [Vitest](https://vitest.dev/), you need to create a `vitest.config.ts` file with the `setupFiles` field:
 
 ```typescript
 import { defineConfig } from 'vitest/config';
