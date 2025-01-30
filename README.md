@@ -1,4 +1,4 @@
-![GitHub file size in bytes](https://img.shields.io/github/size/jtumller5/vibe-checker/vibe_checker.ts)
+![GitHub file size in bytes](https://img.shields.io/github/size/jtumller5/vibe-checker/blob/main/vibe_checker.ts)
 
 
 # Vibe Checker
