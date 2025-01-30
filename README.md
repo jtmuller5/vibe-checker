@@ -4,13 +4,13 @@ A single file for evaluating your LLM outputs in TypeScript.
 
 ## Quickstart
 
-Add a `.env` folder to the root of your project with your Google API key:
+Add a `.env` folder to the root of your project with your [Google API key](https://ai.google.dev/gemini-api/docs/api-key):
 
 ```
 GOOGLE_API_KEY=
 ```
 
-Vibe Checker uses Vitest under the hood. To start testing, create a `__tests__` folder at the root of your project and add a test:
+Vibe Checker uses [Vitest](https://vitest.dev/) under the hood. To start testing, create a `__tests__` folder at the root of your project and add a test:
 
 ```typescript
 describe("Cash Register", () => {
